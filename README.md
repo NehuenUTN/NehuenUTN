@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Bienvenido a mi perfil 👋
+Actualmente me vas encuentrar...
+- 👨‍💻 Estudiando para recibirme de Ingeniero en Sistemas en la UTN
+- 🧉 Tomando mate en alguna plaza cercana a Ciudad Jardin
+- 🎮 O jugando algun videojuego multijugador con amigos !
 <!--
 **NehuenUTN/NehuenUTN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
