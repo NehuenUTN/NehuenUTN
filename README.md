@@ -1,5 +1,5 @@
 ### Bienvenido a mi perfil 👋
-Actualmente me vas encuentrar...
+Actualmente me vas encontrar...
 - 👨‍💻 Estudiando para recibirme de Ingeniero en Sistemas en la UTN
 - 🧉 Tomando mate en alguna plaza cercana a Ciudad Jardin
 - 🎮 O jugando algun videojuego multijugador con amigos !
